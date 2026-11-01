@@ -1,0 +1,12 @@
+work/
+transcript
+vsim.wlf
+*.log
+*.jou
+*.cmd
+*.tmp
+reports/*
+results/*
+!reports/.gitkeep
+!results/.gitkeep
+.DS_Store
